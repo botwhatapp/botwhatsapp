@@ -724,12 +724,12 @@ return`──「 *MENU DONATE* 」──
 Hi *${cekName}* ${ucapanWaktu} 👋🏻
 
 *Payment Ovo*
-Number: 085172446692
-A/N: levi
+Number: 085823265582
+A/N: Man
 
 *Payment Dana*
-Number: 085172446692
-A/N: levi
+Number: 089609237170
+A/N: Man
 
 ${monoSpace}Terimakasih untuk kamu yang sudah donasi untuk perkembangan bot ini ^_^${monoSpace}
 
@@ -740,17 +740,17 @@ exports.infoOwner = () =>{
 return`──「 *INFO OWNER* 」──
 
  *Data Profil*
- • *Nama:* levi
- • *Umur:* 13 tahun
+ • *Nama:* Man
+ • *Umur:* 17 tahun
  • *Hoby:* sendiri/tiktok
- • *Askot:* Berau
+ • *Askot:* Jatim
  • *Konten:* Creator
 
 _iam developer bot whatsapp._
 
  *Sosial Media*
- • *Whatsapp:* 085172446692
- • *Youtube:* LEVI GANZ
- • *Github:* victorbot22
+ • *Whatsapp:* 085823265582
+ • *Youtube:* Man GANZ
+ • *Github:* treomr
  `
 }
